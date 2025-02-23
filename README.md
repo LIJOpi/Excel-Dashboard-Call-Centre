@@ -1,5 +1,7 @@
 # 📊 Call Centre Dashboard (Excel Portfolio Project)
 
+![Excel Dashboard Preview]()
+
 This is an interactive **Excel dashboard** created using advanced Excel techniques such as:
 - Pivot Tables & Pivot Charts 📊
 - Conditional Formatting 🎨
