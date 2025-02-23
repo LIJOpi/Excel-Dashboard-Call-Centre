@@ -1,6 +1,6 @@
 # 📊 Call Centre Dashboard (Excel Portfolio Project)
 
-![Excel Dashboard Preview](https://github.com/LIJOpi/Excel-Dashboard-Call-Centre/commit/01fa07709d7b882672ea60ff20ec8600547b73d9)
+![Excel Dashboard Preview](CALL%20CENTRE%20project%20screenshot.png)
 
 This is an interactive **Excel dashboard** created using advanced Excel techniques such as:
 - Pivot Tables & Pivot Charts 📊
